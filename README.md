@@ -8,9 +8,9 @@
 
 [![renovate](https://img.shields.io/badge/renovate-enabled-%231A1F6C?logo=renovatebot)](https://app.renovatebot.com/dashboard)
 
-## Proje Açıklaması
+## Project Description
 
-Bu proje, [Project 491], NestJS REST API +  kullanılarak geliştirilen bir bitirme projesidir. Temel amacı, [Projemizin kısaca amacı].
+This project, [Project 491], It is a graduation project developed using + NestJS REST API. Temel amacı, [Projemizin kısaca amacı].
 
 [Detaylı dokümantasyon](/docs/readme.md)
 
