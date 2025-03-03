@@ -10,6 +10,8 @@
 
 ## Project Description
 
+UNIQUE ~ AI-POWERED ONLINE MOVIE STREAMING AND RECOMMENDING PLATFORM
+
 This project, [Project 491], It is a graduation project developed using + NestJS REST API.
 
 [Detailed documention](/docs/readme.md)
