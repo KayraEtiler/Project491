@@ -10,41 +10,41 @@
 
 ## Project Description
 
-This project, [Project 491], It is a graduation project developed using + NestJS REST API. Temel amacı, [Projemizin kısaca amacı].
+This project, [Project 491], It is a graduation project developed using + NestJS REST API.
 
-[Detaylı dokümantasyon](/docs/readme.md)
+[Detailed documention](/docs/readme.md)
 
 Demo: [Demo eklenecek]
 
-## İçindekiler Tablosu
+## Table of Contents
 
-- [Özellikler](#özellikler)
-- [Hızlı Başlangıç](#hızlı-başlangıç)
-- [Rahat Geliştirme](#rahat-geliştirme)
-- [Bağlantılar](#bağlantılar)
-- [Bağımlılıkların Otomatik Güncellenmesi](#bağımlılıkların-otomatik-güncellenmesi)
-- [Veritabanı Araçları](#veritabanı-araçları)
-- [Testler](#testler)
-- [Docker İçinde Testler](#docker-içinde-testler)
+- [Features](#özellikler)
+- [Quick Start](#hızlı-başlangıç)
+- [Easy Development](#rahat-geliştirme)
+- [Links](#bağlantılar)
+- [Automatic Update of Dependencies](#bağımlılıkların-otomatik-güncellenmesi)
+- [Database Tools](#veritabanı-araçları)
+- [Tests](#testler)
+- [Tests in Docker](#docker-içinde-testler)
 - [Test Benchmarking](#test-benchmarking)
 
-## Özellikler
+## Features
 
-- [x] Veritabanı ([typeorm](https://www.npmjs.com/package/typeorm)).
+- [x] Database ([typeorm](https://www.npmjs.com/package/typeorm)).
 - [x] Seeding.
-- [x] Config Servisi ([@nestjs/config](https://www.npmjs.com/package/@nestjs/config)).
+- [x] Config Service ([@nestjs/config](https://www.npmjs.com/package/@nestjs/config)).
 - [x] Mailing ([nodemailer](https://www.npmjs.com/package/nodemailer)).
-- [x] Email ile kayıt olma ve giriş yapma.
-- [x] Sosyal medya ile giriş yapma (Apple, Facebook, Google, Twitter).
-- [x] Admin ve Kullanıcı rolleri.
+- [x] Sign up and log in with email.
+- [x] Log in with social media (Apple, Facebook, Google, Twitter).
+- [x] Admin and User roles.
 - [x] I18N ([nestjs-i18n](https://www.npmjs.com/package/nestjs-i18n)).
-- [x] Dosya yükleme. Yerel ve Amazon S3 destekli.
+- [x] File upload. Local and Amazon S3 supported.
 - [x] Swagger.
-- [x] E2E ve birim testleri.
+- [x] E2E and unit testing.
 - [x] Docker.
 - [x] CI (Github Actions).
 
-## Hızlı Başlangıç
+## Quick Start
 
 ```bash
 git clone --depth 1 https://github.com/[kullanıcı_adınız]/[repo_adınız].git my-app
